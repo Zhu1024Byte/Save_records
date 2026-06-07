@@ -1,4 +1,4 @@
-# 🚀 Save_records v1.0.0
+# 🚀 Save_records v0.9
 让每一次工作都留下清醒的回顾
 
 <p align="center"> <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="version"> <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=flat-square" alt="platform"> <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license"> <img src="https://img.shields.io/badge/AI-offline-important?style=flat-square" alt="offline AI"> </p>
